@@ -1,0 +1,85 @@
+﻿UPE | Compare Intel® Products
+04/28/2022 06:39:02 PM
+,Intel® NUC 10 Performance Mini PC - NUC10i5FNKPA
+
+Essentials
+Product Collection,Intel® NUC Mini PC with 10th Generation Intel® Core™ Processors
+Code Name,Products formerly Frost Canyon
+Status,Launched
+Launch Date,Q4'19
+Supported Operating Systems,Windows 11 |  64-bit* |  Windows 10 |  64-bit*
+Board Number,NUC10i5FNB
+Board Form Factor,UCFF (4" x 4")
+Socket,Soldered-down BGA
+Internal Drive Form Factor,M.2 SSD
+# of Internal Drives Supported,1
+Lithography,14 nm
+TDP,25 W
+DC Input Voltage Supported,19 VDC
+Recommended Customer Price,$751.14
+Pre-Installed Operating System,Windows 10 |  64-bit*
+Processor Included,Intel® Core™ i5-10210U Processor (6M Cache |  up to 4.20 GHz)
+Intel vPro® Platform Eligibility ‡,No
+Total Cores,4
+Total Threads,8
+Processor Base Frequency,1.60 GHz
+Max Turbo Frequency,4.20 GHz
+Warranty Period,3  yrs
+
+Supplemental Information
+Embedded Options Available,No
+Datasheet,View now
+Description,Other features: 256GB NVMe SSD |  Windows® 10 x64 Home |  includes far-field quad array microphones
+
+Memory & Storage
+Included Storage,256GB NVMe SSD
+Included Memory,2x 4GB DDR4-2666
+Max Memory Size (dependent on memory type),64 GB
+Memory Types,DDR4-2666 1.2V SO-DIMM
+Max # of Memory Channels,2
+Max Memory Bandwidth,42.6 GB/s
+Max # of DIMMs,2
+ECC Memory Supported   ‡,No
+
+Processor Graphics
+Integrated Graphics ‡,Yes
+Graphics Output,HDMI 2.0b; USB-C (DP1.2)
+# of Displays Supported ‡,3
+
+Expansion Options
+PCI Express Revision,Gen3
+PCI Express Configurations ‡,M.2 slot with PCIe X4 lanes
+Removable Memory Card Slot,SDXC with UHS-II support
+M.2 Card Slot (storage),22x42/80
+
+I/O Specifications
+# of USB Ports,7
+USB Configuration,2x front (Type-A |  Type-C) and 3x rear USB 3.1 Gen2 (2x Type-A |  Type-C); 2x USB 2.0 via internal headers
+USB Revision,2.0 |  3.1 Gen2
+USB 2.0 Configuration (External + Internal),0 + 2
+USB 3.0 Configuration (External + Internal),2B 2F + 0
+Total # of SATA Ports,2
+Max # of SATA 6.0 Gb/s Ports,2
+Audio (back channel + front channel),7.1 digital (HDMI mDP); L+R mic (F)
+Integrated LAN,Intel® Ethernet Connection I219-V
+Integrated Wireless‡,Intel® Wi-Fi 6 AX201
+Integrated Bluetooth,Yes
+Consumer Infrared Rx Sensor,Yes
+Additional Headers,CEC |  2x USB2.0 |  FRONT_PANEL |  RGB
+# of Thunderbolt™ Ports,1x Thunderbolt™ 3
+
+Package Specifications
+Chassis Dimensions,117 x 112 x 38mm
+
+Advanced Technologies
+Intel® Optane™ Memory Supported ‡,Yes
+Intel® Virtualization Technology for Directed I/O (VT-d) ‡,Yes
+Intel vPro® Platform Eligibility ‡,No
+TPM,No
+Intel® HD Audio Technology,Yes
+Intel® Rapid Storage Technology,Yes
+Intel® Virtualization Technology (VT-x) ‡,Yes
+Intel® Platform Trust Technology (Intel® PTT),Yes
+
+Security & Reliability
+Intel® AES New Instructions,Yes
